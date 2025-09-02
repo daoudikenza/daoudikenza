@@ -2,7 +2,7 @@
 😄 Pronouns: she/her  
 🎓 Cornell University: CS & Economics  
 💻 Building AI tools, scalable backends, and turning research into working prototypes.  
-⚡ Fun fact: Lived in 3 countries in 4 years, all on my own  
+⚡ Fun fact: Lived in 3 countries in 4 years!
 
 ## 💼 Experience  
 **Software Development Engineer Intern @ eCornell**  
