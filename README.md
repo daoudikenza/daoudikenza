@@ -16,7 +16,7 @@
 ## 🚀 Projects  
 - **Coinbase Sentiment Analysis**: NLP on 10K+ Reddit posts, fine-tuned RoBERTa (+35% F1)  
 - **AutoCal**: Chrome extension + backend for natural-language Google Calendar scheduling  
-- **Bloomberg Tech Lab**: Optimized real-time news feed (–40% latency with Redis)  
+- **Bloomberg Tech Lab**: Optimized news feed (–40% latency with Redis)  
 
 ## 📬 Get in Touch  
 - Email: kd497@cornell.edu  
