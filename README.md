@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Kenza Daoudi  
+😄 Pronouns: she/her  
 🎓 Cornell University: CS & Economics  
 💻 Building AI tools, scalable backends, and turning research into working prototypes.  
+⚡ Fun fact: Lived in 3 countries in 4 years, all on my own  
 
 ## 💼 Experience  
 **Software Development Engineer Intern @ eCornell**  
@@ -21,6 +23,3 @@
 - LinkedIn: [linkedin.com/in/kenzadaoudi](https://linkedin.com/in/kenzadaoudi)  
 
 ✨ Thanks for visiting!  
-
-😄 Pronouns: she/her  
-⚡ Fun fact: Lived in 3 countries in 4 years, all on my own  
