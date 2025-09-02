@@ -39,13 +39,3 @@ LinkedIn: linkedin.com/in/kenzadaoudi
 
 😄 Pronouns: she/her
 ⚡ Fun fact: Lived in 3 countries in 4 years, all on my own.
----
-
-## 📬 Get in Touch
-- **Email:** kd497@cornell.edu  
-- **LinkedIn:** [linkedin.com/in/kenzadaoudi](https://www.linkedin.com/in/kenzadaoudi)  
-
-✨ Thanks for visiting my profile, feel free to explore my repositories!
-
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I’ve lived in 3 different countries in under 4 years, all by myself!
