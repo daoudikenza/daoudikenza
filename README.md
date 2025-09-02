@@ -1,30 +1,44 @@
-# Hi there 👋 I'm Kenza Daoudi
+Hi there 👋 I'm Kenza Daoudi
 
-🎓 **Cornell University**: B.A. Computer Science & Economics  
-💻 Passionate about building AI-powered tools, scalable backend systems, and translating complex research into working prototypes.
+🎓 Cornell University: CS & Economics
+💻 Building AI tools, scalable backends, and turning research into working prototypes.
 
----
+💼 Experience
 
-## 💼 Current Internship: Software Development Engineer @ eCornell
-- **AI Tools R&D:** Built an AI-powered certificate recommendation chatbot with OpenAI Assistants API (100% accuracy, +67% over baseline).  
-- **Backend Engineering:** Developed a FastAPI RESTful API handling 3K+ potential monthly queries with real-time delivery.  
-- **Data Integration:** Created a pipeline scraping 1,000+ eCornell course pages, ensuring full schema coverage for course metadata.  
-- **Automation:** Deployed AWS Lambda + S3 jobs to refresh 250+ certificates daily for reliable recommendation data.  
+Software Development Engineer Intern @ eCornell
 
----
+Built AI-powered certificate recommendation chatbot (OpenAI Assistants API, +67% accuracy).
 
-## 🔬 Research: Algorithmic Fairness Frontier
-- Collaborating with **Professor Francesca Molinari** to replicate and extend fairness–accuracy frontier research.  
-- Translating original R code (nuisance estimation, support functions, confidence sets) into Python for improved flexibility and reproducibility.  
-- Running simulations and visualizations to validate methodology, focusing on equitable outcomes in classification models.
+Developed FastAPI REST API handling 3K+ monthly queries.
 
----
+Automated metadata pipeline (1,000+ course pages, 250+ certificates daily) with AWS Lambda + S3.
 
-## 🚀 Featured Projects
-- **Millennium × WICC × Coinbase Sentiment Analysis**: NLP pipeline on 10K+ Coinbase Reddit posts, fine-tuned RoBERTa for sentiment classification (+35% F1-score).  
-- **AutoCal**: Chrome extension + backend to parse natural language time expressions and create Google Calendar events automatically.  
-- **Bloomberg Tech Lab**: Optimized real-time news feed system (-40% latency) using Redis caching.
+Research: Algorithmic Fairness Frontier
 
+Replicating and extending fairness–accuracy frontier work with Prof. Francesca Molinari.
+
+Translating R code (nuisance estimation, support functions, confidence sets) into Python.
+
+Running simulations to validate equitable outcomes in classification models.
+
+🚀 Projects
+
+Coinbase Sentiment Analysis: NLP on 10K+ Reddit posts, fine-tuned RoBERTa (+35% F1).
+
+AutoCal: Chrome extension + backend for natural-language Google Calendar scheduling.
+
+Bloomberg Tech Lab: Optimized real-time news feed (–40% latency with Redis).
+
+📬 Get in Touch
+
+Email: kd497@cornell.edu
+
+LinkedIn: linkedin.com/in/kenzadaoudi
+
+✨ Thanks for visiting!
+
+😄 Pronouns: she/her
+⚡ Fun fact: Lived in 3 countries in 4 years, all on my own.
 ---
 
 ## 📬 Get in Touch
